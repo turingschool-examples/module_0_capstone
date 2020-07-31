@@ -26,4 +26,4 @@ hello_someone("Hanna")
 ```
 
 4. What questions do you have about methods in Ruby?  
-I'd like to use this more, but I don't have any questions.
+I will definitely be using the next two weeks to practice more!
